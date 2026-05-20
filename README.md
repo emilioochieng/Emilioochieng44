@@ -30,14 +30,13 @@ I am a passionate software developer based in **Nairobi**. I specialize in build
 
 ### 📈 GitHub Stats
 
-![Emilio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emilioochieng44&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emilioochieng44&layout=compact&theme=radical)
+!Emilio's GitHub username=Emilioochieng44
 ---
 
 ### 📫 Let's Connect!
 
 - 💼 **LinkedIn:** Emilio ochieng
 - 🌐 **Personal Portfolio:** orukajunior42@gmail.com
-- 📧 **Email:** your.emilioochieng44@gmail.com
+- 📧 **Email:** emilioochieng44@gmail.com
 
 *“Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.”*
